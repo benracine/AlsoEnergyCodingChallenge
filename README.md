@@ -1,10 +1,11 @@
 ![](http://www.alsoenergy.com/wp/wp-content/uploads/FullColor_BlackTag-e1413573042293.png)
 
 # Coding Challenge
-- Create a fork of this repo
+- Clone this repo to your local machine
+- Use it to create a new repo on GitHub under your own account (please don't use GitHub fork to accomplish this)
 - Complete each challenge described below. For the javascript challenges, the main invocation of the solution should be in its place in main.js, but you may add other script files if desired.
-- Cleanup commit history to have 1 commit per challenge, in order. 
-- Create a pull request
+- Cleanup commit history to have 1 commit per challenge, in order, on the master branch.
+- Send us an email with a link to your repo
 
 ___
 ## Part 1. HTML and CSS
