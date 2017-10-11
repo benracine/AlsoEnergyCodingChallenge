@@ -5,13 +5,13 @@ var employees = [
         {first: "Amanda", last: "Byron", group: "Sales"},
         {first: "Ye", last: "Xia", group: "Receiving", nameOrder: "reverse"},
         {first: "Miltiades", last: "Crescens", group: "Sales"},
+        /*...don't foget to account for other entries of the same form, but with different group names.....*/
     ];
 
 // Part 2 Answer Here
 
 /*****************************************************************************************
-* Part 3
+* Bonus
 ****************************************************************************************/
 
-// Part 3 Anwser Here
-
+// Bonus Anwser Here
